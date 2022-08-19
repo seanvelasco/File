@@ -1,8 +1,9 @@
 {
   "name": "@seanvelasco/file",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "File object implementation in NodeJS",
+  "main": "build/index.js",
+  "files": ["build"],
   "scripts": {
     "build": "tsc"
   },
